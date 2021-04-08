@@ -4,3 +4,10 @@
      color: blue;
      background-color: orange;
  }
+
+ section {
+    padding: 20px;
+    margin: 30px;
+    color: blue;
+    background-color: orange;  
+ }
